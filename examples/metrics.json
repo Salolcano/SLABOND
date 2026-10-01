@@ -1,0 +1,5 @@
+{
+  "service": "my-agent",
+  "uptime": { "last_30d": 99.62 },
+  "latency_ms": { "p95": 180 }
+}
